@@ -18,3 +18,4 @@ void calculatePrice(float price){
     price = price + (0.18*price);
     printf("Final price is: %f",price);
 }
+
